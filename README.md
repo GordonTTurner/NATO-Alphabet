@@ -6,4 +6,20 @@ t - tango<br />
 a - alpha<br />
 c - charlie<br />
 o - oscar<br />
-s - sierra
+s - sierra<br /><br />
+
+If you want to run multiple words into the command, make sure to add quotations around the argument (single or double quotes work fine). For example, running ```python3 natoalphabet.py Tacos Are Fun``` produces the same output as above, but if you were to run ```python3 natoalphabet.py "Tacos Are Fun"```... <br /><br />
+
+t - tango<br />
+a - alpha<br />
+c - charlie<br />
+o - oscar<br />
+s - sierra<br />
+<br />
+a - alpha<br />
+r - romeo<br />
+e - echo<br />
+<br />
+f - foxtrot<br />
+u - uniform<br />
+n - november
